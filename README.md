@@ -1,1 +1,1 @@
-# CNN-based-Lithofacies-Identification-
+# CNN-based Lithofacies Identification
